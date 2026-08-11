@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+  margin-top: 100px;
+  font-family: sans-serif;
+}
+
+/* 日本語の動物 */
+#animalJP {
+  font-size: 40px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+/* 英語の動物 */
+#animalEN {
+  font-size: 40px;
+  margin-top: 10px;
+  color: #555;
+  text-align: center;
+}
+
+/* ボタンを真ん中にする */
+#btn {
+  font-family: 'Orbitron', sans-serif;
+}
+.counter {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  z-index: 9999;
+}
